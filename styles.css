@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: rgb(73, 70, 70);
+  background: linear-gradient(45deg, black, white);
   display: flex;
   align-items: center;
   justify-content: center;
